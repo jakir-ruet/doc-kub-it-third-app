@@ -1,2 +1,7 @@
-```docker build .```
-```docker run -it imageName/Id```
+```
+docker build .
+```
+
+```
+docker run -it imageName/Id
+```
